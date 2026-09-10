@@ -5,7 +5,7 @@ A private, high-performance desktop assistant featuring Sosuke Aizen from *Bleac
 Voice lines taken from Bleach:Brave Souls.
 Character sprites: Generated variations of AizenChair.png (taken from Google images, manga panel) through regular Gemini 3.6 Flash.
 
-![Aizen Assistant Desktop Showcase](AssistantShowcase.png)
+![Aizen Assistant Desktop Showcase](assets/AssistantShowcase.png)
 
 ## Features
 - **Local GPU Inference**: Powered by Ollama via custom local REST endpoints.
