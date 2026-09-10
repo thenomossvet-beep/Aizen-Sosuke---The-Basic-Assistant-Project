@@ -41,3 +41,5 @@ make
    "Modelfile" appears to be in the main folder, when it actually should be in a "models" folder alongside the .gguf file just how the setup mentions.
 
    -The font is chosen based on your own system font, atleast for KDE-Plasma oriented builds from the limited knowledge I have so far.
+
+   -To run this project, the command "ollama serve" should be ran through a separate terminal window.
