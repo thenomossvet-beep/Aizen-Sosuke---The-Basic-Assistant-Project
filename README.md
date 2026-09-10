@@ -1,8 +1,11 @@
 # Sosuke Aizen - Local C++/Qt6 AI Assistant
 
-A private, high-performance desktop assistant featuring Sosuke Aizen from *Bleach*. Built with a C++/Qt6 interface, dynamic sprite rendering, local persistent SQLite memory, and an offline GPU-accelerated Ollama backend.
+A private, high-performance desktop assistant featuring Sosuke Aizen from *Bleach*. Built with a C++/Qt6 interface, dynamic sprite and voice lines rendering, local persistent SQLite memory, and an offline GPU-accelerated Ollama backend.
 
-![Aizen Assistant Desktop Showcase](image_25cf4e.jpg)
+Voice lines taken from Bleach:Brave Souls.
+Character sprites: Generated variations of AizenChair.png (taken from Google images, manga panel) through regular Gemini 3.6 Flash.
+
+![Aizen Assistant Desktop Showcase](AssistantShowcase.png)
 
 ## Features
 - **Local GPU Inference**: Powered by Ollama via custom local REST endpoints.
