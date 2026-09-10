@@ -37,5 +37,7 @@ make
 
 
    **EXTRA NOTES**:
-   Due to me having to remove certain assets for privacy, (alongside my inexperience with creating proper repositories within Github)
-   "Modelfile" appears to be in the main folder, when it actually should be in a "models" folder alongside the .gguf file.
+   -Due to me having to remove certain assets for privacy, (alongside my inexperience with creating proper repositories within Github)
+   "Modelfile" appears to be in the main folder, when it actually should be in a "models" folder alongside the .gguf file just how the setup mentions.
+
+   -The 
